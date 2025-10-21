@@ -1,0 +1,13 @@
+ID,Name,Type,Status,ProgramCounter,MemoryAddressRegister,Duration,Quantum,WaitingTime,Instructions
+1523,Process_1523,I/O Bound,ready,1,0,2847,0,0,245;120;892;340;1654;180
+7890,Process_7890,I/O Bound,ready,1,0,1923,0,6,345;170;1234;390
+3267,Process_3267,I/O Bound,ready,1,0,2134,0,6,398;150;1123;380
+5489,Process_5489,I/O Bound,ready,1,0,2789,0,6,456;210;1456;330;2234;180
+1523,Process_1523,I/O Bound,ready,1,0,2847,0,1,245;120;892;340;1654;180
+4567,Process_4567,I/O Bound,ready,1,0,2945,0,6,423;220;1234;360;2345;270
+10,GabrielePrueba,CPU Bound,ready,1,0,3200,0,6,[]
+3456,Process_3456,I/O Bound,ready,1,0,3298,0,6,289;250;1089;370;2145;290
+9876,Process_9876,I/O Bound,ready,1,0,3487,0,6,512;280;1678;340;2789;250
+4321,Process_4321,I/O Bound,ready,1,0,3645,0,6,512;290;1678;350;2934;270
+6543,Process_6543,I/O Bound,ready,1,0,4198,0,6,678;240;1534;390;2678;310;3567;220
+6789,Process_6789,I/O Bound,ready,1,0,4523,0,6,734;190;1923;420;3234;310;4012;160
