@@ -1,0 +1,118 @@
+{
+  "name": "root",
+  "subDirectories": {
+    "cabeza": {
+      "dato": {
+        "name": "porn",
+        "subDirectories": {},
+        "files": {}
+      }
+    }
+  },
+  "files": {
+    "cabeza": {
+      "dato": {
+        "name": "zz",
+        "size": 3,
+        "blocks": {
+          "cabeza": {
+            "dato": 0,
+            "siguiente": {
+              "dato": 1,
+              "siguiente": {
+                "dato": 2
+              }
+            }
+          }
+        }
+      },
+      "siguiente": {
+        "dato": {
+          "name": "zzz",
+          "size": 5,
+          "blocks": {
+            "cabeza": {
+              "dato": 3,
+              "siguiente": {
+                "dato": 4,
+                "siguiente": {
+                  "dato": 5,
+                  "siguiente": {
+                    "dato": 6,
+                    "siguiente": {
+                      "dato": 7
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "siguiente": {
+          "dato": {
+            "name": "zzzzzz",
+            "size": 15,
+            "blocks": {
+              "cabeza": {
+                "dato": 8,
+                "siguiente": {
+                  "dato": 9,
+                  "siguiente": {
+                    "dato": 10,
+                    "siguiente": {
+                      "dato": 11,
+                      "siguiente": {
+                        "dato": 12,
+                        "siguiente": {
+                          "dato": 13,
+                          "siguiente": {
+                            "dato": 14,
+                            "siguiente": {
+                              "dato": 15,
+                              "siguiente": {
+                                "dato": 16,
+                                "siguiente": {
+                                  "dato": 17,
+                                  "siguiente": {
+                                    "dato": 18,
+                                    "siguiente": {
+                                      "dato": 19,
+                                      "siguiente": {
+                                        "dato": 20,
+                                        "siguiente": {
+                                          "dato": 21,
+                                          "siguiente": {
+                                            "dato": 22
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "siguiente": {
+            "dato": {
+              "name": "aa",
+              "size": 1,
+              "blocks": {
+                "cabeza": {
+                  "dato": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
