@@ -1,1 +1,0 @@
-# PruebaOperativos1
