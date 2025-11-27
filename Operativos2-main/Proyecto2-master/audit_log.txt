@@ -1,0 +1,897 @@
+[2025-03-20 16:46:32] [Administrador] 📂 Creó el archivo 'Porno' (Tamaño: 18 KB)
+[2025-03-20 16:46:50] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-03-20 16:46:55] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-03-20 17:04:15] [Administrador] 📂 Creó el archivo 'porno' (Tamaño: 20 KB)
+[2025-03-20 17:04:26] [Administrador] 🗑 Eliminó el archivo 'Porno'
+[2025-03-20 17:04:36] [Administrador] ✏️ Actualizó el archivo 'porno'
+[2025-03-20 18:29:00] [Administrador] 📂 Creó el archivo 'porn' en '/'
+[2025-03-20 18:29:16] [Administrador] 📂 Creó el directorio 'cochinadas' en '/'
+[2025-03-20 18:29:28] [Administrador] 📂 Creó el archivo 'zzz' en '/cochinadas'
+[2025-03-20 18:41:27] [Administrador] 📂 Creó el directorio 'z' en '/'
+[2025-03-20 18:41:42] [Administrador] 📂 Creó el directorio 'zz' en '/'
+[2025-03-21 04:49:18] [Administrador] 📂 Creó el archivo 'zz' en '/'
+[2025-03-21 04:49:42] [Administrador] 📂 Creó el archivo 'zzz' en '/'
+[2025-03-21 04:50:12] [Administrador] 📂 Creó el directorio 'porn' en '/'
+[2025-03-21 04:50:23] [Administrador] 📂 Creó el archivo 'zzzzzz' en '/porn'
+[2025-03-21 04:50:41] [Administrador] 📂 Movió el archivo 'zzzzzz' a '/'
+[2025-03-21 04:51:22] [Administrador] 📂 Creó el archivo 'aa' en '/'
+[2025-03-21 06:09:32] [Administrador] 📂 Creó el archivo 'lol.pdf' en '/'
+[2025-03-21 06:09:58] [Administrador] 📂 Creó el archivo 'comemonda' en '/'
+[2025-03-21 06:10:20] [Administrador] 📂 Creó el archivo 'momo' en '/'
+[2025-03-21 06:10:30] [Administrador] 🗑 Eliminó el archivo 'momo' en '/'
+[2025-03-21 06:10:58] [Administrador] 📂 Creó el archivo 's' en '/'
+[2025-03-21 06:16:14] [Administrador] 📂 Creó el archivo 'sis' en '/'
+[2025-03-21 06:19:35] [Administrador] 📂 Creó el archivo 'a' en '/'
+[2025-03-21 06:20:56] [Administrador] 📂 Creó el archivo 'aas' en '/'
+[2025-03-21 06:25:11] [Administrador] 📂 Creó el archivo 'jjj' en '/'
+[2025-03-21 06:25:20] [Administrador] 🗑 Eliminó el archivo 'jjj' en '/'
+[2025-03-21 06:26:12] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-03-21 06:27:02] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-03-21 06:27:09] [Administrador] 📂 Creó el archivo 'as.pdf' en '/'
+[2025-11-05 18:04:50] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-05 18:04:52] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-05 18:04:53] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-05 18:04:56] [Sistema] 💾 Cambió política de buffer a LFU
+[2025-11-05 18:30:29] [Administrador] 📋 Proceso P1 creado para crear archivo 'documento.txt'
+[2025-11-05 18:34:13] [Administrador] 📋 Proceso P1 creado para crear archivo 'documento.txt'
+[2025-11-05 18:36:54] [Administrador] 📋 Proceso P1 creado para eliminar archivo 'as.pdf'
+[2025-11-05 18:36:58] [Administrador] 🗑 Eliminó el archivo 'as.pdf'
+[2025-11-05 18:36:58] [Sistema] ✅ Proceso P1 terminado
+[2025-11-05 18:37:15] [Administrador] 📋 Proceso P2 creado para crear archivo 'documento.txt'
+[2025-11-05 18:37:21] [Administrador] 📂 Creó el archivo 'documento.txt' en '/'
+[2025-11-05 18:37:21] [Sistema] ✅ Proceso P2 terminado
+[2025-11-05 19:08:34] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-05 19:09:21] [Administrador] 📋 Proceso P3 creado para crear archivo 'foto.jpg'
+[2025-11-05 19:09:29] [Administrador] 📂 Creó el archivo 'foto.jpg' en '/documentos'
+[2025-11-05 19:09:29] [Sistema] ✅ Proceso P3 terminado
+[2025-11-05 19:11:20] [Administrador] 📋 Proceso P4 creado para crear archivo 'archivo1'
+[2025-11-05 19:11:31] [Administrador] 📋 Proceso P5 creado para crear archivo 'archivo2'
+[2025-11-05 19:11:42] [Administrador] 📋 Proceso P6 creado para crear archivo 'archivo3'
+[2025-11-05 19:11:52] [Sistema] 💾 Cambió política de buffer a LRU
+[2025-11-05 19:11:55] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-05 19:12:15] [Administrador] 📂 Creó el archivo 'archivo2' en '/'
+[2025-11-05 19:12:15] [Sistema] ✅ Proceso P5 terminado
+[2025-11-05 19:12:16] [Administrador] 📂 Creó el archivo 'archivo3' en '/'
+[2025-11-05 19:12:16] [Sistema] ✅ Proceso P6 terminado
+[2025-11-05 19:12:16] [Administrador] 📂 Creó el archivo 'archivo1' en '/'
+[2025-11-05 19:12:16] [Sistema] ✅ Proceso P4 terminado
+[2025-11-05 19:12:29] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-05 19:13:03] [Administrador] 📋 Proceso P7 creado para crear archivo 'archivo1'
+[2025-11-05 19:13:09] [Sistema] 💾 Cambió política de buffer a LRU
+[2025-11-05 19:13:14] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-05 19:13:16] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-05 19:13:45] [Administrador] 📋 Proceso P8 creado para crear archivo 'archivo2'
+[2025-11-05 19:13:58] [Administrador] 📋 Proceso P9 creado para crear archivo '2'
+[2025-11-05 19:14:05] [Administrador] 📂 Creó el archivo 'archivo1' en '/'
+[2025-11-05 19:14:05] [Sistema] ✅ Proceso P7 terminado
+[2025-11-05 19:14:05] [Administrador] 📂 Creó el archivo 'archivo2' en '/'
+[2025-11-05 19:14:05] [Sistema] ✅ Proceso P8 terminado
+[2025-11-05 19:14:06] [Sistema] ✅ Proceso P9 terminado
+[2025-11-05 19:14:49] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-05 19:14:49] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-05 19:15:22] [Administrador] 📋 Proceso P1 creado para eliminar archivo 'archivo1'
+[2025-11-05 19:15:33] [Administrador] 📋 Proceso P2 creado para eliminar archivo 'archivo2'
+[2025-11-05 19:15:36] [Administrador] 🗑 Eliminó el archivo 'archivo1'
+[2025-11-05 19:15:36] [Sistema] ✅ Proceso P1 terminado
+[2025-11-05 19:15:36] [Administrador] 🗑 Eliminó el archivo 'archivo2'
+[2025-11-05 19:15:36] [Sistema] ✅ Proceso P2 terminado
+[2025-11-05 19:16:59] [Administrador] 📋 Proceso P3 creado para crear archivo 'archivo1'
+[2025-11-05 19:17:07] [Administrador] 📋 Proceso P4 creado para crear archivo 'archivo2'
+[2025-11-05 19:17:14] [Administrador] 📋 Proceso P5 creado para crear archivo 'archivo3'
+[2025-11-05 19:17:18] [Administrador] 📂 Creó el archivo 'archivo1' en '/'
+[2025-11-05 19:17:18] [Sistema] ✅ Proceso P3 terminado
+[2025-11-05 19:17:19] [Administrador] 📂 Creó el archivo 'archivo2' en '/'
+[2025-11-05 19:17:19] [Sistema] ✅ Proceso P4 terminado
+[2025-11-05 19:17:19] [Administrador] 📂 Creó el archivo 'archivo3' en '/'
+[2025-11-05 19:17:19] [Sistema] ✅ Proceso P5 terminado
+[2025-11-05 19:18:37] [Administrador] 📋 Proceso P1 creado para crear archivo 'ahdwef'
+[2025-11-05 19:18:39] [Administrador] 📂 Creó el archivo 'ahdwef' en '/'
+[2025-11-05 19:18:39] [Sistema] ✅ Proceso P1 terminado
+[2025-11-05 19:18:54] [Administrador] 📋 Proceso P2 creado para crear archivo 'efwrg'
+[2025-11-05 19:49:59] [Administrador] 📋 Proceso P1 creado para crear archivo 'hggguihihu'
+[2025-11-05 19:53:26] [Administrador] 📋 Proceso P1 creado para crear archivo 'hjj.jpg'
+[2025-11-06 00:08:16] [Administrador] 📋 Proceso P1 creado para crear archivo 'khsbc'
+[2025-11-06 00:08:19] [Administrador] 📂 Creó el archivo 'khsbc' en '/'
+[2025-11-06 00:08:19] [Sistema] ✅ Proceso P1 terminado
+[2025-11-06 00:08:29] [Administrador] 📋 Proceso P2 creado para crear archivo 'dsfag'
+[2025-11-06 16:32:41] [Administrador] 📋 Proceso P1 creado para crear archivo 'fsvsf'
+[2025-11-06 16:32:43] [Administrador] 📂 Creó el archivo 'fsvsf' en '/'
+[2025-11-06 16:32:43] [Sistema] ✅ Proceso P1 terminado
+[2025-11-06 16:50:07] [Administrador] 📋 Proceso P1 creado para eliminar archivo 'fsvsf'
+[2025-11-06 16:50:09] [Administrador] 🗑 Eliminó el archivo 'fsvsf'
+[2025-11-06 16:50:09] [Sistema] ✅ Proceso P1 terminado
+[2025-11-06 16:50:19] [Administrador] 📋 Proceso P2 creado para crear archivo 'dgfbgf'
+[2025-11-06 16:50:21] [Administrador] 📂 Creó el archivo 'dgfbgf' en '/'
+[2025-11-06 16:50:21] [Sistema] ✅ Proceso P2 terminado
+[2025-11-06 16:50:28] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-06 16:50:38] [Administrador] 📋 Proceso P3 creado para crear archivo 'gbfd'
+[2025-11-06 16:50:40] [Administrador] 📂 Creó el archivo 'gbfd' en '/documentos'
+[2025-11-06 16:50:40] [Sistema] ✅ Proceso P3 terminado
+[2025-11-06 16:50:59] [Administrador] 📋 Proceso P4 creado para crear archivo 'dfedrv'
+[2025-11-06 16:51:01] [Sistema] ✅ Proceso P4 terminado
+[2025-11-06 16:51:12] [Administrador] 📋 Proceso P5 creado para crear archivo 'eferg'
+[2025-11-06 16:51:18] [Administrador] 📋 Proceso P6 creado para crear archivo 'fbfg'
+[2025-11-06 16:51:20] [Administrador] 📂 Creó el archivo 'eferg' en '/'
+[2025-11-06 16:51:20] [Sistema] ✅ Proceso P5 terminado
+[2025-11-06 16:51:21] [Administrador] 📂 Creó el archivo 'fbfg' en '/'
+[2025-11-06 16:51:21] [Sistema] ✅ Proceso P6 terminado
+[2025-11-06 16:52:20] [Administrador] 📋 Proceso P1 creado para eliminar archivo 'eferg'
+[2025-11-06 16:52:22] [Administrador] 🗑 Eliminó el archivo 'eferg'
+[2025-11-06 16:52:22] [Sistema] ✅ Proceso P1 terminado
+[2025-11-06 16:52:37] [Administrador] 📋 Proceso P2 creado para crear archivo 'gbf'
+[2025-11-06 16:52:45] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-06 16:52:46] [Sistema] 💾 Cambió política de buffer a LFU
+[2025-11-06 16:52:48] [Administrador] 📂 Creó el archivo 'gbf' en '/'
+[2025-11-06 16:52:48] [Sistema] ✅ Proceso P2 terminado
+[2025-11-06 17:10:35] [Administrador] 📋 Proceso P1 creado para crear archivo 'dsdv'
+[2025-11-06 17:10:38] [Administrador] 📂 Creó el archivo 'dsdv' en '/'
+[2025-11-06 17:10:38] [Sistema] ✅ Proceso P1 terminado
+[2025-11-06 17:11:06] [Administrador] 📋 Proceso P2 creado para actualizar archivo 'dsdv'
+[2025-11-06 17:11:09] [Administrador] ✏️ Actualizó el archivo 'dsdv'
+[2025-11-06 17:11:09] [Sistema] ✅ Proceso P2 terminado
+[2025-11-06 17:11:48] [Sistema] 💾 Cambió política de buffer a LFU
+[2025-11-07 11:31:33] [Administrador] 📋 Proceso P1 creado para crear archivo 'fdgg'
+[2025-11-07 11:31:35] [Administrador] 📂 Creó el archivo 'fdgg' en '/'
+[2025-11-07 11:31:35] [Sistema] ✅ Proceso P1 terminado
+[2025-11-07 11:31:41] [Administrador] 📋 Proceso P2 creado para crear archivo 'dgdf'
+[2025-11-07 11:31:50] [Administrador] 📋 Proceso P3 creado para crear archivo 'hgdft'
+[2025-11-07 11:31:52] [Administrador] 📂 Creó el archivo 'dgdf' en '/'
+[2025-11-07 11:31:52] [Sistema] ✅ Proceso P2 terminado
+[2025-11-07 11:31:53] [Administrador] 📂 Creó el archivo 'hgdft' en '/'
+[2025-11-07 11:31:53] [Sistema] ✅ Proceso P3 terminado
+[2025-11-07 11:32:13] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'dgdf'
+[2025-11-07 11:32:15] [Administrador] ✏️ Actualizó el archivo 'dgdf'
+[2025-11-07 11:32:15] [Sistema] ✅ Proceso P4 terminado
+[2025-11-07 11:33:57] [Administrador] 📋 Proceso P5 creado para actualizar archivo 'hgdft'
+[2025-11-07 11:34:00] [Administrador] ✏️ Actualizó el archivo 'hgdft'
+[2025-11-07 11:34:00] [Sistema] ✅ Proceso P5 terminado
+[2025-11-07 11:36:53] [Administrador] 📋 Proceso P6 creado para eliminar archivo 'fdgg'
+[2025-11-07 11:36:56] [Administrador] 🗑 Eliminó el archivo 'fdgg'
+[2025-11-07 11:36:56] [Sistema] ✅ Proceso P6 terminado
+[2025-11-07 11:37:06] [Administrador] 📋 Proceso P7 creado para crear archivo 'vdfsasf'
+[2025-11-07 11:37:13] [Administrador] 📂 Creó el archivo 'vdfsasf' en '/'
+[2025-11-07 11:37:13] [Sistema] ✅ Proceso P7 terminado
+[2025-11-07 11:37:30] [Administrador] 📋 Proceso P8 creado para actualizar archivo 'hgdft'
+[2025-11-07 11:37:32] [Administrador] ✏️ Actualizó el archivo 'hgdft'
+[2025-11-07 11:37:32] [Sistema] ✅ Proceso P8 terminado
+[2025-11-07 11:37:46] [Administrador] 📋 Proceso P9 creado para actualizar archivo 'vdfsasf'
+[2025-11-07 11:37:48] [Administrador] ✏️ Actualizó el archivo 'vdfsasf'
+[2025-11-07 11:37:48] [Sistema] ✅ Proceso P9 terminado
+[2025-11-07 11:39:53] [Administrador] 📋 Proceso P10 creado para crear archivo 'dbgtfn'
+[2025-11-07 11:39:55] [Administrador] 📂 Creó el archivo 'dbgtfn' en '/'
+[2025-11-07 11:39:55] [Sistema] ✅ Proceso P10 terminado
+[2025-11-07 11:40:22] [Administrador] 📋 Proceso P11 creado para actualizar archivo 'dbgtfn'
+[2025-11-07 11:40:25] [Administrador] ✏️ Actualizó el archivo 'dbgtfn'
+[2025-11-07 11:40:25] [Sistema] ✅ Proceso P11 terminado
+[2025-11-07 11:41:56] [Administrador] 📋 Proceso P12 creado para actualizar archivo 'vdfsasf'
+[2025-11-07 11:41:59] [Administrador] ✏️ Actualizó el archivo 'vdfsasf'
+[2025-11-07 11:41:59] [Sistema] ✅ Proceso P12 terminado
+[2025-11-07 11:42:54] [Administrador] 📋 Proceso P13 creado para eliminar archivo 'hgdft'
+[2025-11-07 11:42:56] [Administrador] 🗑 Eliminó el archivo 'hgdft'
+[2025-11-07 11:42:56] [Sistema] ✅ Proceso P13 terminado
+[2025-11-07 11:43:09] [Administrador] 📋 Proceso P14 creado para eliminar archivo 'dgdf'
+[2025-11-07 11:43:11] [Administrador] 🗑 Eliminó el archivo 'dgdf'
+[2025-11-07 11:43:11] [Sistema] ✅ Proceso P14 terminado
+[2025-11-07 11:43:22] [Administrador] 📋 Proceso P15 creado para crear archivo 'dgdff'
+[2025-11-07 11:43:24] [Administrador] 📂 Creó el archivo 'dgdff' en '/'
+[2025-11-07 11:43:24] [Sistema] ✅ Proceso P15 terminado
+[2025-11-07 11:43:34] [Administrador] 📋 Proceso P16 creado para eliminar archivo 'dgdff'
+[2025-11-07 11:43:37] [Administrador] 🗑 Eliminó el archivo 'dgdff'
+[2025-11-07 11:43:37] [Sistema] ✅ Proceso P16 terminado
+[2025-11-11 22:48:23] [Administrador] 📋 Proceso P1 creado para crear archivo 'sfvd'
+[2025-11-11 22:48:25] [Administrador] 📂 Creó el archivo 'sfvd' en '/'
+[2025-11-11 22:48:25] [Sistema] ✅ Proceso P1 terminado
+[2025-11-11 22:48:32] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-11 22:48:38] [Administrador] 📋 Proceso P2 creado para crear archivo 'fvdfd'
+[2025-11-11 22:48:40] [Administrador] 📂 Creó el archivo 'fvdfd' en '/'
+[2025-11-11 22:48:40] [Sistema] ✅ Proceso P2 terminado
+[2025-11-11 22:55:50] [Administrador] 📋 Proceso P1 creado para crear archivo 'labubu'
+[2025-11-11 22:56:27] [Administrador] 📂 Creó el archivo 'labubu' en '/'
+[2025-11-11 22:56:27] [Sistema] ✅ Proceso P1 terminado
+[2025-11-11 22:56:40] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-11 22:57:20] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-11 22:58:40] [Administrador] 📋 Proceso P2 creado para eliminar archivo 'labubu'
+[2025-11-11 22:59:54] [Administrador] 🗑 Eliminó el archivo 'labubu'
+[2025-11-11 22:59:54] [Sistema] ✅ Proceso P2 terminado
+[2025-11-11 23:00:25] [Administrador] 📂 Creó el directorio 'descargas' en '/'
+[2025-11-11 23:00:42] [Administrador] 📋 Proceso P3 creado para crear archivo 'etbdfd'
+[2025-11-11 23:00:50] [Administrador] 📂 Creó el archivo 'etbdfd' en '/descargas'
+[2025-11-11 23:00:50] [Sistema] ✅ Proceso P3 terminado
+[2025-11-11 23:01:40] [Administrador] 📂 Movió el archivo 'etbdfd' a '/'
+[2025-11-11 23:02:03] [Administrador] 📋 Proceso P4 creado para crear archivo 'edgbdf'
+[2025-11-11 23:02:05] [Administrador] 📂 Creó el archivo 'edgbdf' en '/descargas'
+[2025-11-11 23:02:05] [Sistema] ✅ Proceso P4 terminado
+[2025-11-11 23:02:30] [Administrador] 📋 Proceso P5 creado para crear archivo 'dfvdfrbfd'
+[2025-11-11 23:02:35] [Sistema] ✅ Proceso P5 terminado
+[2025-11-11 23:03:13] [Administrador] 📋 Proceso P6 creado para actualizar archivo 'etbdfd'
+[2025-11-11 23:03:26] [Administrador] 📋 Proceso P7 creado para actualizar archivo 'etbdfd'
+[2025-11-11 23:03:31] [Administrador] ✏️ Actualizó el archivo 'etbdfd' (45 MISSes)
+[2025-11-11 23:03:31] [Sistema] ✅ Proceso P6 terminado
+[2025-11-11 23:03:31] [Administrador] ✏️ Actualizó el archivo 'etbdfd' (45 MISSes)
+[2025-11-11 23:03:31] [Sistema] ✅ Proceso P7 terminado
+[2025-11-11 23:05:29] [Administrador] 📋 Proceso P8 creado para crear archivo 'a'
+[2025-11-11 23:05:31] [Administrador] 📂 Creó el archivo 'a' en '/'
+[2025-11-11 23:05:31] [Sistema] ✅ Proceso P8 terminado
+[2025-11-11 23:05:40] [Administrador] 📋 Proceso P9 creado para actualizar archivo 'a'
+[2025-11-11 23:05:43] [Administrador] ✏️ Actualizó el archivo 'a' (23 MISSes)
+[2025-11-11 23:05:43] [Sistema] ✅ Proceso P9 terminado
+[2025-11-11 23:05:51] [Administrador] 📋 Proceso P10 creado para actualizar archivo 'a'
+[2025-11-11 23:05:54] [Administrador] ✏️ Actualizó el archivo 'a' (23 MISSes)
+[2025-11-11 23:05:54] [Sistema] ✅ Proceso P10 terminado
+[2025-11-11 23:07:17] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-12 19:35:09] [Administrador] 📋 Proceso P1 creado para crear archivo 'fgd'
+[2025-11-12 19:35:12] [Administrador] 📂 Creó el archivo 'fgd' en '/'
+[2025-11-12 19:35:12] [Sistema] ✅ Proceso P1 terminado
+[2025-11-12 20:20:49] [Sistema] 💾 Cambió política de buffer a LFU
+[2025-11-12 20:21:57] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-12 20:21:58] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-12 20:21:59] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-12 20:22:00] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-13 14:36:44] [Administrador] 📋 Proceso P1 creado para crear archivo 'dfgdxfx'
+[2025-11-13 14:36:46] [Administrador] 📂 Creó el archivo 'dfgdxfx' en '/'
+[2025-11-13 14:36:46] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 14:39:11] [Administrador] 📋 Proceso P2 creado para crear archivo 'wefgrsgrdea'
+[2025-11-13 14:39:13] [Administrador] 📂 Creó el archivo 'wefgrsgrdea' en '/'
+[2025-11-13 14:39:13] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 14:40:41] [Administrador] 📋 Proceso P3 creado para crear archivo 'dfbf'
+[2025-11-13 14:40:44] [Administrador] 📂 Creó el archivo 'dfbf' en '/'
+[2025-11-13 14:40:44] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 14:40:51] [Administrador] 📋 Proceso P4 creado para crear archivo 'sdd'
+[2025-11-13 14:40:53] [Administrador] 📂 Creó el archivo 'sdd' en '/'
+[2025-11-13 14:40:53] [Sistema] ✅ Proceso P4 terminado
+[2025-11-13 14:42:01] [Administrador] 📋 Proceso P5 creado para crear archivo 'sfd'
+[2025-11-13 14:42:03] [Administrador] 📂 Creó el archivo 'sfd' en '/'
+[2025-11-13 14:42:03] [Sistema] ✅ Proceso P5 terminado
+[2025-11-13 14:42:09] [Administrador] 📋 Proceso P6 creado para crear archivo 'sdcad'
+[2025-11-13 14:42:11] [Administrador] 📂 Creó el archivo 'sdcad' en '/'
+[2025-11-13 14:42:11] [Sistema] ✅ Proceso P6 terminado
+[2025-11-13 14:43:01] [Administrador] 📋 Proceso P7 creado para crear archivo 'fggx'
+[2025-11-13 14:43:03] [Administrador] 📂 Creó el archivo 'fggx' en '/'
+[2025-11-13 14:43:03] [Sistema] ✅ Proceso P7 terminado
+[2025-11-13 14:43:13] [Administrador] 📋 Proceso P8 creado para actualizar archivo 'fggx'
+[2025-11-13 14:43:15] [Administrador] ✏️ Actualizó el archivo 'fggx' (10 HITs, 0 MISSes)
+[2025-11-13 14:43:15] [Sistema] ✅ Proceso P8 terminado
+[2025-11-13 14:45:07] [Administrador] 📋 Proceso P9 creado para crear archivo 'dfsg'
+[2025-11-13 14:45:10] [Administrador] 📂 Creó el archivo 'dfsg' en '/'
+[2025-11-13 14:45:10] [Sistema] ✅ Proceso P9 terminado
+[2025-11-13 14:45:33] [Administrador] 📋 Proceso P10 creado para actualizar archivo 'fggx'
+[2025-11-13 14:45:35] [Administrador] ✏️ Actualizó el archivo 'fggx' (10 MISSes)
+[2025-11-13 14:45:35] [Sistema] ✅ Proceso P10 terminado
+[2025-11-13 14:46:52] [Administrador] 📋 Proceso P11 creado para crear archivo 'gfdszfz'
+[2025-11-13 14:46:54] [Administrador] 📂 Creó el archivo 'gfdszfz' en '/'
+[2025-11-13 14:46:54] [Sistema] ✅ Proceso P11 terminado
+[2025-11-13 14:47:05] [Administrador] 📋 Proceso P12 creado para actualizar archivo 'fggx'
+[2025-11-13 14:47:08] [Administrador] ✏️ Actualizó el archivo 'fggx' (10 MISSes)
+[2025-11-13 14:47:08] [Sistema] ✅ Proceso P12 terminado
+[2025-11-13 14:47:28] [Administrador] 📋 Proceso P13 creado para eliminar archivo 'fggx'
+[2025-11-13 14:47:29] [Administrador] 🗑 Eliminó el archivo 'fggx'
+[2025-11-13 14:47:29] [Sistema] ✅ Proceso P13 terminado
+[2025-11-13 14:56:02] [Administrador] 📋 Proceso P1 creado para crear archivo 'gss'
+[2025-11-13 14:56:04] [Administrador] 📂 Creó el archivo 'gss' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-13 14:56:04] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 14:56:11] [Administrador] 📋 Proceso P2 creado para actualizar archivo 'gss'
+[2025-11-13 14:56:13] [Administrador] ✏️ Actualizó el archivo 'gss' (12 HITs - todos los bloques en buffer)
+[2025-11-13 14:56:13] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 14:56:19] [Administrador] 📋 Proceso P3 creado para crear archivo 'sdfs'
+[2025-11-13 14:56:20] [Administrador] 📂 Creó el archivo 'sdfs' en '/' (32 MISSes - 20 bloques cargados al buffer)
+[2025-11-13 14:56:20] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 15:07:51] [Administrador] 📋 Proceso P1 creado para crear archivo 'erdhe'
+[2025-11-13 15:07:53] [Administrador] 📂 Creó el archivo 'erdhe' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-13 15:07:53] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 15:08:03] [Administrador] 📋 Proceso P2 creado para crear archivo 'dfzd'
+[2025-11-13 15:08:06] [Administrador] 📂 Creó el archivo 'dfzd' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-13 15:08:06] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 15:08:21] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'erdhe'
+[2025-11-13 15:08:23] [Administrador] ✏️ Actualizó el archivo 'erdhe' (15 MISSes - ningún bloque en buffer)
+[2025-11-13 15:08:23] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 15:19:56] [Administrador] 📋 Proceso P4 creado para crear archivo 'd'
+[2025-11-13 15:19:58] [Administrador] 📂 Creó el archivo 'd' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-13 15:19:58] [Sistema] ✅ Proceso P4 terminado
+[2025-11-13 15:20:06] [Administrador] 📋 Proceso P5 creado para crear archivo 'g'
+[2025-11-13 15:20:07] [Administrador] 📂 Creó el archivo 'g' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-13 15:20:07] [Sistema] ✅ Proceso P5 terminado
+[2025-11-13 15:20:24] [Administrador] 📋 Proceso P6 creado para actualizar archivo 'd'
+[2025-11-13 15:20:27] [Administrador] ✏️ Actualizó el archivo 'd' (10 MISSes - ningún bloque en buffer)
+[2025-11-13 15:20:27] [Sistema] ✅ Proceso P6 terminado
+[2025-11-13 15:38:28] [Administrador] 📋 Proceso P1 creado para crear archivo '10'
+[2025-11-13 15:38:31] [Administrador] 📂 Creó el archivo '10' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-13 15:38:31] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 15:38:43] [Administrador] 📋 Proceso P2 creado para crear archivo 'i'
+[2025-11-13 15:38:45] [Administrador] 📂 Creó el archivo 'i' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-13 15:38:45] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 15:38:53] [Administrador] 📋 Proceso P3 creado para actualizar archivo '10'
+[2025-11-13 15:38:54] [Administrador] ✏️ Actualizó el archivo '10' (10 MISSes - ningún bloque en buffer)
+[2025-11-13 15:38:54] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 15:39:25] [Administrador] 📋 Proceso P1 creado para crear archivo 'vadszbdf'
+[2025-11-13 15:39:26] [Administrador] 📂 Creó el archivo 'vadszbdf' en '/' (32 MISSes - 20 bloques cargados al buffer)
+[2025-11-13 15:39:26] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 15:39:39] [Administrador] 📋 Proceso P2 creado para actualizar archivo 'vadszbdf'
+[2025-11-13 15:39:41] [Administrador] ✏️ Actualizó el archivo 'vadszbdf' (32 MISSes - ningún bloque en buffer)
+[2025-11-13 15:39:41] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 15:39:49] [Administrador] 📋 Proceso P3 creado para crear archivo 'a'
+[2025-11-13 15:39:51] [Administrador] 📂 Creó el archivo 'a' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-13 15:39:51] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 15:39:56] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'a'
+[2025-11-13 15:39:57] [Administrador] ✏️ Actualizó el archivo 'a' (12 HITs - todos los bloques en buffer)
+[2025-11-13 15:39:57] [Sistema] ✅ Proceso P4 terminado
+[2025-11-13 15:45:17] [Administrador] 📋 Proceso P1 creado para crear archivo 'a'
+[2025-11-13 15:45:19] [Administrador] 📂 Creó el archivo 'a' en '/' (10 MISSes - 10 bloques procesados)
+[2025-11-13 15:45:19] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 15:45:27] [Administrador] 📋 Proceso P2 creado para crear archivo '15'
+[2025-11-13 15:45:29] [Administrador] 📂 Creó el archivo '15' en '/' (15 MISSes - 15 bloques procesados)
+[2025-11-13 15:45:29] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 15:45:35] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'a'
+[2025-11-13 15:45:37] [Administrador] ✏️ Actualizó el archivo 'a' (10 MISSes - ningún bloque en buffer)
+[2025-11-13 15:45:37] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 16:00:03] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-13 16:00:06] [Sistema] 💾 Cambió política de buffer a LRU
+[2025-11-13 16:00:11] [Administrador] 📋 Proceso P1 creado para crear archivo 'a'
+[2025-11-13 16:00:13] [Administrador] 📂 Creó el archivo 'a' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-13 16:00:13] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 16:00:19] [Administrador] 📋 Proceso P2 creado para crear archivo 'b'
+[2025-11-13 16:00:21] [Administrador] 📂 Creó el archivo 'b' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-13 16:00:21] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 16:00:28] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'a'
+[2025-11-13 16:00:30] [Administrador] ✏️ Actualizó el archivo 'a' (10 MISSes - ningún bloque en buffer)
+[2025-11-13 16:00:30] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 16:00:52] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'b'
+[2025-11-13 16:00:53] [Administrador] ✏️ Actualizó el archivo 'b' (15 MISSes - ningún bloque en buffer)
+[2025-11-13 16:00:53] [Sistema] ✅ Proceso P4 terminado
+[2025-11-13 16:00:58] [Administrador] 📋 Proceso P5 creado para actualizar archivo 'b'
+[2025-11-13 16:01:00] [Administrador] ✏️ Actualizó el archivo 'b' (15 HITs - todos los bloques en buffer)
+[2025-11-13 16:01:00] [Sistema] ✅ Proceso P5 terminado
+[2025-11-13 16:19:47] [Administrador] 📋 Proceso P1 creado para crear archivo 'a'
+[2025-11-13 16:19:49] [Administrador] 📂 Creó el archivo 'a' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-13 16:19:49] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 16:19:55] [Administrador] 📋 Proceso P2 creado para crear archivo 'b'
+[2025-11-13 16:19:58] [Administrador] 📂 Creó el archivo 'b' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-13 16:19:58] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 16:20:06] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'a'
+[2025-11-13 16:20:08] [Administrador] ✏️ Actualizó el archivo 'a' (10 MISSes - ningún bloque en buffer)
+[2025-11-13 16:20:08] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 16:20:13] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'a'
+[2025-11-13 16:20:14] [Administrador] ✏️ Actualizó el archivo 'a' (10 HITs - todos los bloques en buffer)
+[2025-11-13 16:20:14] [Sistema] ✅ Proceso P4 terminado
+[2025-11-13 16:21:26] [Administrador] 📋 Proceso P1 creado para crear archivo 'as'
+[2025-11-13 16:21:27] [Administrador] 📂 Creó el archivo 'as' en '/' (23 MISSes - 20 bloques cargados al buffer)
+[2025-11-13 16:21:27] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 16:42:47] [Administrador] 📋 Proceso P1 creado para crear archivo 'n'
+[2025-11-13 16:42:50] [Administrador] 📂 Creó el archivo 'n' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-13 16:42:50] [Sistema] ✅ Proceso P1 terminado
+[2025-11-13 16:42:56] [Administrador] 📋 Proceso P2 creado para crear archivo 'm'
+[2025-11-13 16:42:58] [Administrador] 📂 Creó el archivo 'm' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-13 16:42:58] [Sistema] ✅ Proceso P2 terminado
+[2025-11-13 16:43:10] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'n'
+[2025-11-13 16:43:16] [Administrador] ✏️ Actualizó el archivo 'n' (10 MISSes - ningún bloque en buffer)
+[2025-11-13 16:43:16] [Sistema] ✅ Proceso P3 terminado
+[2025-11-13 16:43:30] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'n'
+[2025-11-13 16:43:32] [Administrador] ✏️ Actualizó el archivo 'n' (10 HITs - todos los bloques en buffer)
+[2025-11-13 16:43:32] [Sistema] ✅ Proceso P4 terminado
+[2025-11-23 17:05:25] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-23 17:05:27] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-23 17:17:07] [Administrador] 📋 Proceso P1 creado para crear archivo 'rgea'
+[2025-11-23 17:17:09] [Administrador] 📂 Creó el archivo 'rgea' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-23 17:17:09] [Sistema] ✅ Proceso P1 terminado
+[2025-11-23 17:18:41] [Administrador] 📋 Proceso P1 creado para crear archivo 'vfbdz'
+[2025-11-23 17:18:43] [Administrador] 📂 Creó el archivo 'vfbdz' en '/' (32 MISSes - 20 bloques cargados al buffer)
+[2025-11-23 17:18:43] [Sistema] ✅ Proceso P1 terminado
+[2025-11-24 14:29:45] [Administrador] 📋 Proceso P1 creado para crear archivo 'jghdjjz'
+[2025-11-24 14:29:55] [Administrador] 📋 Proceso P2 creado para crear archivo 'rgge'
+[2025-11-24 14:29:59] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-24 14:30:01] [Sistema] 💾 Cambió política de buffer a LRU
+[2025-11-24 14:30:04] [Sistema] 💾 Cambió política de buffer a LRU
+[2025-11-24 14:30:11] [Administrador] 📂 Creó el archivo 'jghdjjz' en '/' (23 MISSes - 20 bloques cargados al buffer)
+[2025-11-24 14:30:11] [Sistema] ✅ Proceso P1 terminado
+[2025-11-24 14:30:11] [Administrador] 📂 Creó el archivo 'rgge' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-24 14:30:11] [Sistema] ✅ Proceso P2 terminado
+[2025-11-24 14:30:41] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-24 14:31:03] [Administrador] 📋 Proceso P3 creado para crear archivo 'dvfvf'
+[2025-11-24 14:31:08] [Administrador] 📂 Creó el archivo 'dvfvf' en '/documentos' (21 MISSes - 20 bloques cargados al buffer)
+[2025-11-24 14:31:08] [Sistema] ✅ Proceso P3 terminado
+[2025-11-24 14:31:24] [Administrador] 📋 Proceso P4 creado para eliminar archivo 'rgge'
+[2025-11-24 14:31:26] [Administrador] 🗑 Eliminó el archivo 'rgge'
+[2025-11-24 14:31:26] [Sistema] ✅ Proceso P4 terminado
+[2025-11-24 14:32:02] [Administrador] 📋 Proceso P5 creado para actualizar archivo 'dvfvf'
+[2025-11-24 14:32:05] [Administrador] ✏️ Actualizó el archivo 'dvfvf' (21 MISSes - ningún bloque en buffer)
+[2025-11-24 14:32:05] [Sistema] ✅ Proceso P5 terminado
+[2025-11-24 14:32:34] [Administrador] 📋 Proceso P6 creado para actualizar archivo 'dvfvf'
+[2025-11-24 14:32:36] [Administrador] ✏️ Actualizó el archivo 'dvfvf' (21 MISSes - ningún bloque en buffer)
+[2025-11-24 14:32:36] [Sistema] ✅ Proceso P6 terminado
+[2025-11-24 14:33:42] [Administrador] 📋 Proceso P7 creado para crear archivo 'df'
+[2025-11-24 14:33:44] [Administrador] 📂 Creó el archivo 'df' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-24 14:33:44] [Sistema] ✅ Proceso P7 terminado
+[2025-11-24 14:34:11] [Administrador] 📂 Movió el archivo 'df' a '/documentos'
+[2025-11-24 14:35:39] [Administrador] 📋 Proceso P8 creado para eliminar archivo 'df'
+[2025-11-24 14:35:40] [Administrador] 🗑 Eliminó el archivo 'df'
+[2025-11-24 14:35:40] [Sistema] ✅ Proceso P8 terminado
+[2025-11-24 14:35:51] [Administrador] 📋 Proceso P9 creado para crear archivo 'd'
+[2025-11-24 14:35:52] [Administrador] 📂 Creó el archivo 'd' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-24 14:35:52] [Sistema] ✅ Proceso P9 terminado
+[2025-11-24 14:36:04] [Administrador] 📋 Proceso P10 creado para actualizar archivo 'd'
+[2025-11-24 14:36:06] [Administrador] ✏️ Actualizó el archivo 'd' (12 HITs - todos los bloques en buffer)
+[2025-11-24 14:36:06] [Sistema] ✅ Proceso P10 terminado
+[2025-11-24 14:36:45] [Sistema] 💾 Cambió política de buffer a LFU
+[2025-11-24 14:36:59] [Administrador] 📋 Proceso P11 creado para crear archivo 'a'
+[2025-11-24 14:37:01] [Administrador] 📂 Creó el archivo 'a' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-24 14:37:01] [Sistema] ✅ Proceso P11 terminado
+[2025-11-24 14:37:18] [Administrador] 📋 Proceso P12 creado para actualizar archivo 'a'
+[2025-11-24 14:37:25] [Administrador] ✏️ Actualizó el archivo 'a' (15 HITs - todos los bloques en buffer)
+[2025-11-24 14:37:25] [Sistema] ✅ Proceso P12 terminado
+[2025-11-24 14:37:44] [Administrador] 📋 Proceso P13 creado para crear archivo 'dfd'
+[2025-11-24 14:37:47] [Administrador] 📂 Creó el archivo 'dfd' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-24 14:37:47] [Sistema] ✅ Proceso P13 terminado
+[2025-11-24 14:37:55] [Administrador] 📋 Proceso P14 creado para crear archivo 'a'
+[2025-11-24 14:37:57] [Administrador] 📂 Creó el archivo 'a' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-24 14:37:57] [Sistema] ✅ Proceso P14 terminado
+[2025-11-24 14:38:49] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-24 14:38:55] [Administrador] 📋 Proceso P15 creado para crear archivo 'advsfd'
+[2025-11-24 14:38:58] [Administrador] 📂 Creó el archivo 'advsfd' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-24 14:38:58] [Sistema] ✅ Proceso P15 terminado
+[2025-11-24 14:39:06] [Administrador] 📋 Proceso P16 creado para crear archivo 'bbb'
+[2025-11-24 14:39:08] [Administrador] 📂 Creó el archivo 'bbb' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-24 14:39:08] [Sistema] ✅ Proceso P16 terminado
+[2025-11-24 14:39:39] [Administrador] 📋 Proceso P17 creado para crear archivo 'aaaa'
+[2025-11-24 14:39:40] [Administrador] 📂 Creó el archivo 'aaaa' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-24 14:39:40] [Sistema] ✅ Proceso P17 terminado
+[2025-11-24 14:40:01] [Administrador] 📋 Proceso P18 creado para crear archivo 'bbb'
+[2025-11-24 14:40:02] [Administrador] 📂 Creó el archivo 'bbb' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-24 14:40:02] [Sistema] ✅ Proceso P18 terminado
+[2025-11-24 14:41:12] [Administrador] 📋 Proceso P19 creado para actualizar archivo 'bbb'
+[2025-11-24 14:41:14] [Administrador] ✏️ Actualizó el archivo 'bbb' (10 HITs - todos los bloques en buffer)
+[2025-11-24 14:41:14] [Sistema] ✅ Proceso P19 terminado
+[2025-11-24 14:41:49] [Administrador] 📋 Proceso P20 creado para actualizar archivo 'aaaa'
+[2025-11-24 14:41:51] [Administrador] ✏️ Actualizó el archivo 'aaaa' (15 MISSes - ningún bloque en buffer)
+[2025-11-24 14:41:51] [Sistema] ✅ Proceso P20 terminado
+[2025-11-24 14:42:14] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-24 14:42:16] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-24 14:42:22] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-24 14:42:24] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-24 14:42:24] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-24 14:42:25] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-24 14:42:27] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-24 14:42:29] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-24 15:34:51] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-24 15:34:52] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-24 15:35:00] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-24 15:35:05] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-24 15:35:42] [Administrador] 📋 Proceso P1 creado para crear archivo '1'
+[2025-11-24 15:35:52] [Administrador] 📋 Proceso P2 creado para crear archivo '2'
+[2025-11-24 15:36:01] [Administrador] 📋 Proceso P3 creado para crear archivo '3'
+[2025-11-24 15:36:07] [Administrador] 📋 Proceso P4 creado para crear archivo '4'
+[2025-11-24 15:36:17] [Administrador] 📋 Proceso P5 creado para crear archivo '5'
+[2025-11-24 15:36:30] [Administrador] 📂 Creó el archivo '1' en '/' (5 MISSes - 5 bloques cargados al buffer)
+[2025-11-24 15:36:30] [Sistema] ✅ Proceso P1 terminado
+[2025-11-24 15:36:31] [Administrador] 📂 Creó el archivo '2' en '/' (3 MISSes - 3 bloques cargados al buffer)
+[2025-11-24 15:36:31] [Sistema] ✅ Proceso P2 terminado
+[2025-11-24 15:36:31] [Administrador] 📂 Creó el archivo '3' en '/' (7 MISSes - 7 bloques cargados al buffer)
+[2025-11-24 15:36:31] [Sistema] ✅ Proceso P3 terminado
+[2025-11-24 15:36:31] [Administrador] 📂 Creó el archivo '4' en '/' (2 MISSes - 2 bloques cargados al buffer)
+[2025-11-24 15:36:31] [Sistema] ✅ Proceso P4 terminado
+[2025-11-24 15:36:32] [Administrador] 📂 Creó el archivo '5' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 15:36:32] [Sistema] ✅ Proceso P5 terminado
+[2025-11-24 15:37:52] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-24 15:42:03] [Administrador] 📋 Proceso P1 creado para crear archivo 'test1'
+[2025-11-24 15:42:12] [Administrador] 📋 Proceso P2 creado para crear archivo 'test2'
+[2025-11-24 15:42:18] [Administrador] 📋 Proceso P3 creado para crear archivo 'test3'
+[2025-11-24 15:42:22] [Administrador] 📂 Creó el archivo 'test2' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 15:42:22] [Sistema] ✅ Proceso P2 terminado
+[2025-11-24 15:42:22] [Administrador] 📂 Creó el archivo 'test1' en '/' (3 MISSes - 3 bloques cargados al buffer)
+[2025-11-24 15:42:22] [Sistema] ✅ Proceso P1 terminado
+[2025-11-24 15:42:22] [Administrador] 📂 Creó el archivo 'test3' en '/' (5 MISSes - 5 bloques cargados al buffer)
+[2025-11-24 15:42:22] [Sistema] ✅ Proceso P3 terminado
+[2025-11-24 15:45:48] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-24 15:46:28] [Administrador] 📋 Proceso P4 creado para crear archivo 'Test1'
+[2025-11-24 15:46:39] [Administrador] 📋 Proceso P5 creado para crear archivo 'Test2'
+[2025-11-24 15:46:49] [Administrador] 📋 Proceso P6 creado para crear archivo 'Test3'
+[2025-11-24 15:46:51] [Administrador] 📂 Creó el archivo 'Test1' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 15:46:51] [Sistema] ✅ Proceso P4 terminado
+[2025-11-24 15:46:52] [Administrador] 📂 Creó el archivo 'Test3' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 15:46:52] [Sistema] ✅ Proceso P6 terminado
+[2025-11-24 15:46:52] [Administrador] 📂 Creó el archivo 'Test2' en '/' (6 MISSes - 6 bloques cargados al buffer)
+[2025-11-24 15:46:52] [Sistema] ✅ Proceso P5 terminado
+[2025-11-24 15:48:31] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-24 15:50:03] [Sistema] 💾 Cambió política de buffer a LRU
+[2025-11-24 15:50:46] [Administrador] 📋 Proceso P7 creado para crear archivo 'archivo_A'
+[2025-11-24 15:50:49] [Administrador] 📂 Creó el archivo 'archivo_A' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-24 15:50:49] [Sistema] ✅ Proceso P7 terminado
+[2025-11-24 15:51:11] [Administrador] 📋 Proceso P8 creado para actualizar archivo 'archivo_A'
+[2025-11-24 15:51:12] [Administrador] ✏️ Actualizó el archivo 'archivo_A' (12 HITs - todos los bloques en buffer)
+[2025-11-24 15:51:12] [Sistema] ✅ Proceso P8 terminado
+[2025-11-24 15:52:08] [Administrador] 📋 Proceso P9 creado para crear archivo 'a'
+[2025-11-24 15:52:12] [Administrador] 📋 Proceso P10 creado para crear archivo 's'
+[2025-11-24 15:52:17] [Administrador] 📋 Proceso P11 creado para crear archivo 'd'
+[2025-11-24 15:52:23] [Administrador] 📋 Proceso P12 creado para crear archivo 'f'
+[2025-11-24 15:52:28] [Administrador] 📋 Proceso P13 creado para crear archivo 'f'
+[2025-11-24 15:52:33] [Administrador] 📋 Proceso P14 creado para crear archivo 'g'
+[2025-11-24 15:52:38] [Administrador] 📋 Proceso P15 creado para crear archivo 'h'
+[2025-11-24 15:52:43] [Administrador] 📋 Proceso P16 creado para crear archivo 'j'
+[2025-11-24 15:52:50] [Administrador] 📋 Proceso P17 creado para crear archivo 'k'
+[2025-11-24 15:52:54] [Administrador] 📋 Proceso P18 creado para crear archivo 'l'
+[2025-11-24 15:52:58] [Administrador] 📂 Creó el archivo 'k' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:52:58] [Sistema] ✅ Proceso P17 terminado
+[2025-11-24 15:52:58] [Administrador] 📂 Creó el archivo 's' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:52:58] [Sistema] ✅ Proceso P10 terminado
+[2025-11-24 15:52:59] [Administrador] 📂 Creó el archivo 'l' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:52:59] [Sistema] ✅ Proceso P18 terminado
+[2025-11-24 15:52:59] [Administrador] 📂 Creó el archivo 'j' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:52:59] [Sistema] ✅ Proceso P16 terminado
+[2025-11-24 15:53:00] [Administrador] 📂 Creó el archivo 'f' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:53:00] [Sistema] ✅ Proceso P13 terminado
+[2025-11-24 15:53:00] [Administrador] 📂 Creó el archivo 'g' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:53:00] [Sistema] ✅ Proceso P14 terminado
+[2025-11-24 15:53:00] [Administrador] 📂 Creó el archivo 'a' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:53:01] [Sistema] ✅ Proceso P9 terminado
+[2025-11-24 15:53:03] [Sistema] ✅ Proceso P12 terminado
+[2025-11-24 15:53:04] [Administrador] 📂 Creó el archivo 'h' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:53:04] [Sistema] ✅ Proceso P15 terminado
+[2025-11-24 15:53:04] [Administrador] 📂 Creó el archivo 'd' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:53:04] [Sistema] ✅ Proceso P11 terminado
+[2025-11-24 15:53:20] [Administrador] 📋 Proceso P19 creado para crear archivo 'c'
+[2025-11-24 15:53:23] [Administrador] 📂 Creó el archivo 'c' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 15:53:23] [Sistema] ✅ Proceso P19 terminado
+[2025-11-24 15:54:21] [Administrador] 📋 Proceso P20 creado para actualizar archivo 'archivo_A'
+[2025-11-24 15:54:23] [Administrador] ✏️ Actualizó el archivo 'archivo_A' (12 MISSes - ningún bloque en buffer)
+[2025-11-24 15:54:23] [Sistema] ✅ Proceso P20 terminado
+[2025-11-24 15:55:27] [Administrador] 📋 Proceso P21 creado para crear archivo 'archivo_X'
+[2025-11-24 15:55:30] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-24 15:55:31] [Administrador] 📂 Creó el archivo 'archivo_X' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-24 15:55:31] [Sistema] ✅ Proceso P21 terminado
+[2025-11-24 15:55:38] [Administrador] 📋 Proceso P22 creado para crear archivo 'archivo_Y'
+[2025-11-24 15:55:40] [Administrador] 📂 Creó el archivo 'archivo_Y' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-24 15:55:40] [Sistema] ✅ Proceso P22 terminado
+[2025-11-24 15:55:49] [Administrador] 📋 Proceso P23 creado para actualizar archivo 'archivo_X'
+[2025-11-24 15:55:50] [Administrador] ✏️ Actualizó el archivo 'archivo_X' (10 MISSes - ningún bloque en buffer)
+[2025-11-24 15:55:50] [Sistema] ✅ Proceso P23 terminado
+[2025-11-24 15:56:28] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-24 16:17:35] [Administrador] 📋 Proceso P1 creado para crear archivo 'archivo1'
+[2025-11-24 16:17:41] [Administrador] 📋 Proceso P2 creado para crear archivo 'archivo2'
+[2025-11-24 16:17:47] [Administrador] 📋 Proceso P3 creado para crear archivo 'archivo3'
+[2025-11-24 16:17:53] [Administrador] 📋 Proceso P4 creado para crear archivo 'archivo4'
+[2025-11-24 16:17:57] [Administrador] 📂 Creó el archivo 'archivo1' en '/' (3 MISSes - 3 bloques cargados al buffer)
+[2025-11-24 16:17:57] [Sistema] ✅ Proceso P1 terminado
+[2025-11-24 16:17:57] [Administrador] 📂 Creó el archivo 'archivo2' en '/' (5 MISSes - 5 bloques cargados al buffer)
+[2025-11-24 16:17:57] [Sistema] ✅ Proceso P2 terminado
+[2025-11-24 16:17:58] [Administrador] 📂 Creó el archivo 'archivo3' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 16:17:58] [Sistema] ✅ Proceso P3 terminado
+[2025-11-24 16:17:58] [Administrador] 📂 Creó el archivo 'archivo4' en '/' (2 MISSes - 2 bloques cargados al buffer)
+[2025-11-24 16:17:58] [Sistema] ✅ Proceso P4 terminado
+[2025-11-24 16:19:11] [Administrador] 📋 Proceso P5 creado para crear archivo 'testA'
+[2025-11-24 16:19:19] [Administrador] 📋 Proceso P6 creado para crear archivo 'TestB'
+[2025-11-24 16:19:27] [Administrador] 📋 Proceso P7 creado para crear archivo 'TestC'
+[2025-11-24 16:19:39] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-24 16:19:44] [Sistema] 🔍 SSTF procesó 'TestB' (bloque 38, distancia: 27)
+[2025-11-24 16:19:44] [Administrador] 📂 Creó el archivo 'TestB' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 16:19:44] [Sistema] ✅ Proceso P6 terminado
+[2025-11-24 16:19:45] [Sistema] 🔍 SSTF procesó 'testA' (bloque 24, distancia: 14)
+[2025-11-24 16:19:45] [Administrador] 📂 Creó el archivo 'testA' en '/' (3 MISSes - 3 bloques cargados al buffer)
+[2025-11-24 16:19:45] [Sistema] ✅ Proceso P5 terminado
+[2025-11-24 16:19:45] [Sistema] 🔍 SSTF procesó 'TestC' (bloque 0, distancia: 24)
+[2025-11-24 16:19:45] [Administrador] 📂 Creó el archivo 'TestC' en '/' (5 MISSes - 5 bloques cargados al buffer)
+[2025-11-24 16:19:45] [Sistema] ✅ Proceso P7 terminado
+[2025-11-24 16:21:28] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-24 16:21:47] [Administrador] 📋 Proceso P8 creado para crear archivo 'scanA'
+[2025-11-24 16:22:01] [Administrador] 📋 Proceso P9 creado para crear archivo 'scanB'
+[2025-11-24 16:22:08] [Administrador] 📋 Proceso P10 creado para crear archivo 'scanC'
+[2025-11-24 16:22:16] [Administrador] 📋 Proceso P11 creado para crear archivo 'scanD'
+[2025-11-24 16:22:20] [Sistema] 🔍 SCAN procesó 'scanA' (bloque 25, dirección: ↑)
+[2025-11-24 16:22:21] [Administrador] 📂 Creó el archivo 'scanA' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 16:22:21] [Sistema] ✅ Proceso P8 terminado
+[2025-11-24 16:22:21] [Sistema] 🔍 SCAN procesó 'scanD' (bloque 33, dirección: ↑)
+[2025-11-24 16:22:21] [Administrador] 📂 Creó el archivo 'scanD' en '/' (3 MISSes - 3 bloques cargados al buffer)
+[2025-11-24 16:22:21] [Sistema] ✅ Proceso P11 terminado
+[2025-11-24 16:22:21] [Sistema] 🔍 SCAN procesó 'scanB' (bloque 88, dirección: ↑)
+[2025-11-24 16:22:21] [Administrador] 📂 Creó el archivo 'scanB' en '/' (6 MISSes - 6 bloques cargados al buffer)
+[2025-11-24 16:22:21] [Sistema] ✅ Proceso P9 terminado
+[2025-11-24 16:22:22] [Sistema] 🔍 SCAN procesó 'scanC' (bloque 94, dirección: ↑)
+[2025-11-24 16:22:22] [Administrador] 📂 Creó el archivo 'scanC' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 16:22:22] [Sistema] ✅ Proceso P10 terminado
+[2025-11-24 16:24:10] [Administrador] 📋 Proceso P12 creado para crear archivo 'cscanA'
+[2025-11-24 16:24:16] [Administrador] 📋 Proceso P13 creado para crear archivo 'cscanB'
+[2025-11-24 16:24:22] [Administrador] 📋 Proceso P14 creado para crear archivo 'cscanC'
+[2025-11-24 16:24:30] [Administrador] 📋 Proceso P15 creado para crear archivo 'cscanD'
+[2025-11-24 16:24:36] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-24 16:24:38] [Sistema] 🔍 C-SCAN procesó 'cscanD' (bloque 98)
+[2025-11-24 16:24:38] [Administrador] 📂 Creó el archivo 'cscanD' en '/' (6 MISSes - 6 bloques cargados al buffer)
+[2025-11-24 16:24:38] [Sistema] ✅ Proceso P15 terminado
+[2025-11-24 16:24:38] [Sistema] 🔍 C-SCAN procesó 'cscanB' (bloque 22)
+[2025-11-24 16:24:39] [Administrador] 📂 Creó el archivo 'cscanB' en '/' (5 MISSes - 5 bloques cargados al buffer)
+[2025-11-24 16:24:39] [Sistema] ✅ Proceso P13 terminado
+[2025-11-24 16:24:39] [Sistema] 🔍 C-SCAN procesó 'cscanA' (bloque 44)
+[2025-11-24 16:24:39] [Administrador] 📂 Creó el archivo 'cscanA' en '/' (3 MISSes - 3 bloques cargados al buffer)
+[2025-11-24 16:24:39] [Sistema] ✅ Proceso P12 terminado
+[2025-11-24 16:24:39] [Sistema] 🔍 C-SCAN procesó 'cscanC' (bloque 58)
+[2025-11-24 16:24:39] [Administrador] 📂 Creó el archivo 'cscanC' en '/' (4 MISSes - 4 bloques cargados al buffer)
+[2025-11-24 16:24:39] [Sistema] ✅ Proceso P14 terminado
+[2025-11-24 16:26:10] [Administrador] 📋 Proceso P16 creado para crear archivo 'bufferA'
+[2025-11-24 16:26:15] [Sistema] 🔍 C-SCAN procesó 'bufferA' (bloque 51)
+[2025-11-24 16:26:15] [Administrador] 📂 Creó el archivo 'bufferA' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-24 16:26:15] [Sistema] ✅ Proceso P16 terminado
+[2025-11-24 16:26:37] [Administrador] 📋 Proceso P17 creado para actualizar archivo 'bufferA'
+[2025-11-24 16:26:39] [Sistema] 🔍 C-SCAN procesó 'bufferA' (bloque 2)
+[2025-11-24 16:26:39] [Administrador] ✏️ Actualizó el archivo 'bufferA' (12 HITs - todos los bloques en buffer)
+[2025-11-24 16:26:39] [Sistema] ✅ Proceso P17 terminado
+[2025-11-24 16:26:52] [Administrador] 📋 Proceso P18 creado para crear archivo 'b1'
+[2025-11-24 16:26:56] [Administrador] 📋 Proceso P19 creado para crear archivo 'b2'
+[2025-11-24 16:27:00] [Administrador] 📋 Proceso P20 creado para crear archivo 'b3'
+[2025-11-24 16:27:03] [Administrador] 📋 Proceso P21 creado para crear archivo 'b4'
+[2025-11-24 16:27:07] [Administrador] 📋 Proceso P22 creado para crear archivo 'b5'
+[2025-11-24 16:27:16] [Administrador] 📋 Proceso P23 creado para crear archivo 'b6'
+[2025-11-24 16:27:22] [Administrador] 📋 Proceso P24 creado para crear archivo 'b7'
+[2025-11-24 16:27:26] [Administrador] 📋 Proceso P25 creado para crear archivo 'b8'
+[2025-11-24 16:27:31] [Administrador] 📋 Proceso P26 creado para crear archivo 'b9'
+[2025-11-24 16:27:41] [Administrador] 📋 Proceso P27 creado para crear archivo 'b10'
+[2025-11-24 16:27:43] [Sistema] 🔍 C-SCAN procesó 'b2' (bloque 4)
+[2025-11-24 16:27:43] [Administrador] 📂 Creó el archivo 'b2' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:43] [Sistema] ✅ Proceso P19 terminado
+[2025-11-24 16:27:44] [Sistema] 🔍 C-SCAN procesó 'b6' (bloque 10)
+[2025-11-24 16:27:44] [Administrador] 📂 Creó el archivo 'b6' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:44] [Sistema] ✅ Proceso P23 terminado
+[2025-11-24 16:27:44] [Sistema] 🔍 C-SCAN procesó 'b7' (bloque 21)
+[2025-11-24 16:27:44] [Administrador] 📂 Creó el archivo 'b7' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:44] [Sistema] ✅ Proceso P24 terminado
+[2025-11-24 16:27:45] [Sistema] 🔍 C-SCAN procesó 'b10' (bloque 42)
+[2025-11-24 16:27:45] [Administrador] 📂 Creó el archivo 'b10' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:45] [Sistema] ✅ Proceso P27 terminado
+[2025-11-24 16:27:45] [Sistema] 🔍 C-SCAN procesó 'b3' (bloque 49)
+[2025-11-24 16:27:45] [Administrador] 📂 Creó el archivo 'b3' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:45] [Sistema] ✅ Proceso P20 terminado
+[2025-11-24 16:27:45] [Sistema] 🔍 C-SCAN procesó 'b4' (bloque 49)
+[2025-11-24 16:27:46] [Administrador] 📂 Creó el archivo 'b4' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:46] [Sistema] ✅ Proceso P21 terminado
+[2025-11-24 16:27:46] [Sistema] 🔍 C-SCAN procesó 'b5' (bloque 50)
+[2025-11-24 16:27:46] [Administrador] 📂 Creó el archivo 'b5' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:46] [Sistema] ✅ Proceso P22 terminado
+[2025-11-24 16:27:46] [Sistema] 🔍 C-SCAN procesó 'b1' (bloque 86)
+[2025-11-24 16:27:46] [Administrador] 📂 Creó el archivo 'b1' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:46] [Sistema] ✅ Proceso P18 terminado
+[2025-11-24 16:27:47] [Sistema] 🔍 C-SCAN procesó 'b9' (bloque 88)
+[2025-11-24 16:27:47] [Administrador] 📂 Creó el archivo 'b9' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:47] [Sistema] ✅ Proceso P26 terminado
+[2025-11-24 16:27:47] [Sistema] 🔍 C-SCAN procesó 'b8' (bloque 94)
+[2025-11-24 16:27:47] [Administrador] 📂 Creó el archivo 'b8' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-24 16:27:47] [Sistema] ✅ Proceso P25 terminado
+[2025-11-24 16:28:07] [Administrador] 📋 Proceso P28 creado para actualizar archivo 'bufferA'
+[2025-11-24 16:28:09] [Sistema] 🔍 C-SCAN procesó 'bufferA' (bloque 23)
+[2025-11-24 16:28:09] [Administrador] ✏️ Actualizó el archivo 'bufferA' (12 MISSes - ningún bloque en buffer)
+[2025-11-24 16:28:09] [Sistema] ✅ Proceso P28 terminado
+[2025-11-24 16:34:20] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-24 16:34:23] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-24 16:34:31] [Administrador] 📋 Proceso P29 creado para crear archivo 'fifoX'
+[2025-11-24 16:34:34] [Administrador] 📂 Creó el archivo 'fifoX' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-24 16:34:34] [Sistema] ✅ Proceso P29 terminado
+[2025-11-24 16:34:41] [Administrador] 📋 Proceso P30 creado para crear archivo 'fifoY'
+[2025-11-24 16:34:44] [Administrador] 📂 Creó el archivo 'fifoY' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-24 16:34:44] [Sistema] ✅ Proceso P30 terminado
+[2025-11-24 16:35:01] [Administrador] 📋 Proceso P31 creado para actualizar archivo 'fifoX'
+[2025-11-24 16:35:04] [Administrador] ✏️ Actualizó el archivo 'fifoX' (10 MISSes - ningún bloque en buffer)
+[2025-11-24 16:35:04] [Sistema] ✅ Proceso P31 terminado
+[2025-11-24 16:35:57] [Sistema] 💾 Cambió política de buffer a LFU
+[2025-11-24 16:36:15] [Administrador] 📋 Proceso P32 creado para crear archivo 'lfuA'
+[2025-11-24 16:36:24] [Administrador] 📂 Creó el archivo 'lfuA' en '/' (8 MISSes - 8 bloques cargados al buffer)
+[2025-11-24 16:36:24] [Sistema] ✅ Proceso P32 terminado
+[2025-11-24 16:36:34] [Administrador] 📋 Proceso P33 creado para crear archivo 'lfuB'
+[2025-11-24 16:36:37] [Administrador] 📂 Creó el archivo 'lfuB' en '/' (8 MISSes - 8 bloques cargados al buffer)
+[2025-11-24 16:36:37] [Sistema] ✅ Proceso P33 terminado
+[2025-11-24 16:36:49] [Administrador] 📋 Proceso P34 creado para actualizar archivo 'lfuA'
+[2025-11-24 16:36:52] [Administrador] ✏️ Actualizó el archivo 'lfuA' (8 HITs - todos los bloques en buffer)
+[2025-11-24 16:36:52] [Sistema] ✅ Proceso P34 terminado
+[2025-11-24 16:37:04] [Administrador] 📋 Proceso P35 creado para actualizar archivo 'lfuA'
+[2025-11-24 16:37:06] [Administrador] ✏️ Actualizó el archivo 'lfuA' (8 HITs - todos los bloques en buffer)
+[2025-11-24 16:37:06] [Sistema] ✅ Proceso P35 terminado
+[2025-11-24 16:37:22] [Administrador] 📋 Proceso P36 creado para actualizar archivo 'lfuA'
+[2025-11-24 16:37:23] [Administrador] ✏️ Actualizó el archivo 'lfuA' (8 HITs - todos los bloques en buffer)
+[2025-11-24 16:37:23] [Sistema] ✅ Proceso P36 terminado
+[2025-11-24 16:37:36] [Administrador] 📋 Proceso P37 creado para crear archivo 'lfuC'
+[2025-11-24 16:37:38] [Administrador] 📂 Creó el archivo 'lfuC' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-24 16:37:38] [Sistema] ✅ Proceso P37 terminado
+[2025-11-24 16:37:49] [Administrador] 📋 Proceso P38 creado para actualizar archivo 'lfuB'
+[2025-11-24 16:37:51] [Administrador] ✏️ Actualizó el archivo 'lfuB' (4 HITs, 4 MISSes - parcial en buffer)
+[2025-11-24 16:37:51] [Sistema] ✅ Proceso P38 terminado
+[2025-11-26 12:31:40] [Administrador] 📋 Proceso P1 creado para crear archivo 'hola'
+[2025-11-26 12:31:47] [Administrador] 📂 Creó el archivo 'hola' en '/' (20 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 12:31:47] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 12:32:52] [Administrador] 📋 Proceso P2 creado para crear archivo 'afd'
+[2025-11-26 12:33:06] [Administrador] 📂 Creó el archivo 'afd' en '/' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-26 12:33:06] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 12:34:05] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'afd'
+[2025-11-26 12:34:17] [Administrador] ✏️ Actualizó el archivo 'afd' (10 HITs - todos los bloques en buffer)
+[2025-11-26 12:34:17] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 12:38:42] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'hola'
+[2025-11-26 12:38:51] [Administrador] ✏️ Actualizó el archivo 'hola' (20 MISSes - ningún bloque en buffer)
+[2025-11-26 12:38:51] [Sistema] ✅ Proceso P4 terminado
+[2025-11-26 12:41:22] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-26 12:41:38] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-26 12:42:13] [Administrador] 📋 Proceso P5 creado para crear archivo 'pedro'
+[2025-11-26 12:42:16] [Sistema] 🔍 SCAN procesó 'pedro' (bloque 79, dirección: ↑)
+[2025-11-26 12:42:17] [Administrador] 📂 Creó el archivo 'pedro' en '/documentos' (16 MISSes - 16 bloques cargados al buffer)
+[2025-11-26 12:42:17] [Sistema] ✅ Proceso P5 terminado
+[2025-11-26 12:43:18] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-26 12:43:26] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-26 12:48:18] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-26 12:48:19] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-26 12:52:51] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-26 12:52:52] [Sistema] 📋 Cambió política de planificación a SCAN
+[2025-11-26 12:52:54] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-26 12:52:55] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-26 12:52:56] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-26 12:52:58] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-26 12:53:02] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-26 12:53:07] [Administrador] 📋 Proceso P1 creado para crear archivo 'esrheds'
+[2025-11-26 12:53:10] [Sistema] 🔍 C-SCAN procesó 'esrheds' (bloque 64)
+[2025-11-26 12:53:11] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 12:53:16] [Sistema] 📋 Cambió política de planificación a CSCAN
+[2025-11-26 12:53:20] [Administrador] 📋 Proceso P2 creado para crear archivo 'dfs'
+[2025-11-26 12:53:34] [Administrador] 📋 Proceso P3 creado para crear archivo 'rss'
+[2025-11-26 12:53:40] [Administrador] 📋 Proceso P4 creado para crear archivo 'juy'
+[2025-11-26 12:54:06] [Sistema] 🔍 C-SCAN procesó 'juy' (bloque 84)
+[2025-11-26 12:54:07] [Administrador] 📂 Creó el archivo 'juy' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 12:54:07] [Sistema] ✅ Proceso P4 terminado
+[2025-11-26 12:54:07] [Sistema] 🔍 C-SCAN procesó 'dfs' (bloque 85)
+[2025-11-26 12:54:07] [Administrador] 📂 Creó el archivo 'dfs' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 12:54:07] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 12:54:07] [Sistema] 🔍 C-SCAN procesó 'rss' (bloque 54)
+[2025-11-26 12:54:07] [Administrador] 📂 Creó el archivo 'rss' en '/' (32 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 12:54:07] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 12:57:47] [Administrador] 📋 Proceso P5 creado para crear archivo 'hfd'
+[2025-11-26 12:58:08] [Administrador] 📋 Proceso P6 creado para crear archivo 'rged'
+[2025-11-26 12:58:10] [Sistema] 🔍 C-SCAN procesó 'rged' (bloque 61)
+[2025-11-26 12:58:10] [Administrador] 📂 Creó el archivo 'rged' en '/' (20 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 12:58:10] [Sistema] ✅ Proceso P6 terminado
+[2025-11-26 12:58:20] [Administrador] 📋 Proceso P7 creado para crear archivo 'fd'
+[2025-11-26 12:58:21] [Sistema] 🔍 C-SCAN procesó 'fd' (bloque 71)
+[2025-11-26 12:58:22] [Administrador] 📂 Creó el archivo 'fd' en '/' (1 MISSes - 1 bloques cargados al buffer)
+[2025-11-26 12:58:22] [Sistema] ✅ Proceso P7 terminado
+[2025-11-26 13:00:07] [Administrador] 📋 Proceso P8 creado para eliminar archivo 'fd'
+[2025-11-26 13:00:08] [Sistema] 🔍 C-SCAN procesó 'fd' (bloque 86)
+[2025-11-26 13:00:08] [Administrador] 🗑 Eliminó el archivo 'fd'
+[2025-11-26 13:00:08] [Sistema] ✅ Proceso P8 terminado
+[2025-11-26 13:00:17] [Administrador] 📂 Creó el directorio 'h' en '/'
+[2025-11-26 13:02:00] [Administrador] 📋 Proceso P9 creado para crear archivo 'fgfbg'
+[2025-11-26 13:02:02] [Sistema] 🔍 C-SCAN procesó 'fgfbg' (bloque 86)
+[2025-11-26 13:02:02] [Administrador] 📂 Creó el archivo 'fgfbg' en '/h' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 13:02:02] [Sistema] ✅ Proceso P9 terminado
+[2025-11-26 13:02:26] [Administrador] 📋 Proceso P10 creado para crear archivo 'cdsv'
+[2025-11-26 13:02:28] [Sistema] 🔍 C-SCAN procesó 'cdsv' (bloque 43)
+[2025-11-26 13:02:28] [Sistema] ✅ Proceso P10 terminado
+[2025-11-26 13:03:00] [Administrador] 📂 Movió el archivo 'fgfbg' a '/'
+[2025-11-26 13:03:29] [Administrador] 📋 Proceso P11 creado para actualizar archivo 'rged'
+[2025-11-26 13:03:31] [Sistema] 🔍 C-SCAN procesó 'rged' (bloque 55)
+[2025-11-26 13:03:31] [Administrador] ✏️ Actualizó el archivo 'rged' (20 MISSes - ningún bloque en buffer)
+[2025-11-26 13:03:31] [Sistema] ✅ Proceso P11 terminado
+[2025-11-26 13:03:42] [Administrador] 📋 Proceso P12 creado para actualizar archivo 'rged'
+[2025-11-26 13:03:43] [Sistema] 🔍 C-SCAN procesó 'rged' (bloque 61)
+[2025-11-26 13:03:43] [Administrador] ✏️ Actualizó el archivo 'rged' (20 HITs - todos los bloques en buffer)
+[2025-11-26 13:03:43] [Sistema] ✅ Proceso P12 terminado
+[2025-11-26 13:04:37] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 13:04:38] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 13:04:38] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 13:04:39] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 13:04:43] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 13:05:02] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 13:05:03] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 13:05:23] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 13:05:24] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 13:05:47] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 13:05:56] [Administrador] 📂 Creó el directorio 'fg' en '/h'
+[2025-11-26 13:06:20] [Administrador] 📋 Proceso P1 creado para crear archivo 'ged'
+[2025-11-26 13:06:21] [Administrador] 📂 Creó el archivo 'ged' en '/h' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 13:06:21] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 13:07:10] [Administrador] 📋 Proceso P2 creado para eliminar archivo 'ged'
+[2025-11-26 13:07:12] [Administrador] 🗑 Eliminó el archivo 'ged'
+[2025-11-26 13:07:12] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 13:07:28] [Administrador] 📋 Proceso P3 creado para crear archivo 'sdfws'
+[2025-11-26 13:07:30] [Administrador] 📂 Creó el archivo 'sdfws' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 13:07:30] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 13:08:33] [Administrador] 📋 Proceso P4 creado para crear archivo 'dd'
+[2025-11-26 13:08:38] [Administrador] 📋 Proceso P5 creado para crear archivo 'fgd'
+[2025-11-26 13:08:43] [Administrador] 📋 Proceso P6 creado para crear archivo 'ds'
+[2025-11-26 13:08:44] [Administrador] 📂 Creó el archivo 'dd' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 13:08:44] [Sistema] ✅ Proceso P4 terminado
+[2025-11-26 13:08:45] [Administrador] 📂 Creó el archivo 'fgd' en '/' (43 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 13:08:45] [Sistema] ✅ Proceso P5 terminado
+[2025-11-26 13:08:45] [Administrador] 📂 Creó el archivo 'ds' en '/' (15 MISSes - 15 bloques cargados al buffer)
+[2025-11-26 13:08:45] [Sistema] ✅ Proceso P6 terminado
+[2025-11-26 13:08:49] [Administrador] 📋 Proceso P7 creado para eliminar archivo 'ds'
+[2025-11-26 13:08:51] [Administrador] 🗑 Eliminó el archivo 'ds'
+[2025-11-26 13:08:51] [Sistema] ✅ Proceso P7 terminado
+[2025-11-26 16:37:07] [Administrador] 📋 Proceso P1 creado para crear archivo 'iugg'
+[2025-11-26 16:38:56] [Administrador] 📋 Proceso P2 creado para crear archivo 'rdetra'
+[2025-11-26 16:39:00] [Administrador] 📂 Creó el archivo 'iugg' en '/' (2 MISSes - 2 bloques cargados al buffer)
+[2025-11-26 16:39:00] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 16:39:01] [Administrador] 📂 Creó el archivo 'rdetra' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 16:39:01] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 19:11:37] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-26 19:11:46] [Administrador] 📋 Proceso P1 creado para crear archivo 'fe'
+[2025-11-26 19:11:49] [Administrador] 📂 Creó el archivo 'fe' en '/documentos' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-26 19:11:49] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 19:12:12] [Administrador] 🗑 Eliminó el archivo 'fe' (dentro de directorio)
+[2025-11-26 19:12:12] [Administrador] 🗑 Eliminó el directorio 'documentos' y todo su contenido
+[2025-11-26 19:12:20] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-26 19:12:39] [Administrador] 📂 Creó el directorio 'documentos' en '/'
+[2025-11-26 19:12:51] [Administrador] 📋 Proceso P2 creado para crear archivo 'hola'
+[2025-11-26 19:12:52] [Administrador] 📂 Creó el archivo 'hola' en '/documentos' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-26 19:12:52] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 19:13:02] [Administrador] 📂 Creó el directorio 'descargas' en '/documentos'
+[2025-11-26 19:13:17] [Administrador] 📋 Proceso P3 creado para crear archivo 'chao'
+[2025-11-26 19:13:19] [Administrador] 📂 Creó el archivo 'chao' en '/documentos/descargas' (10 MISSes - 10 bloques cargados al buffer)
+[2025-11-26 19:13:19] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 19:13:38] [Administrador] 🗑 Eliminó el archivo 'chao' (dentro de directorio)
+[2025-11-26 19:13:38] [Administrador] 🗑 Eliminó el directorio 'descargas' y todo su contenido
+[2025-11-26 19:13:50] [Administrador] 📋 Proceso P4 creado para eliminar archivo 'hola'
+[2025-11-26 19:13:52] [Administrador] 🗑 Eliminó el archivo 'hola'
+[2025-11-26 19:13:52] [Sistema] ✅ Proceso P4 terminado
+[2025-11-26 19:15:25] [Administrador] 📋 Proceso P5 creado para crear archivo 'gerhs'
+[2025-11-26 19:15:27] [Administrador] 📂 Creó el archivo 'gerhs' en '/documentos' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 19:15:27] [Sistema] ✅ Proceso P5 terminado
+[2025-11-26 19:15:41] [Administrador] 📋 Proceso P6 creado para actualizar archivo 'gerhs'
+[2025-11-26 19:15:43] [Administrador] ✏️ Actualizó el archivo 'gerhs' (12 HITs - todos los bloques en buffer)
+[2025-11-26 19:15:43] [Sistema] ✅ Proceso P6 terminado
+[2025-11-26 19:55:55] [Administrador] 📋 Proceso P1 creado para crear archivo 'gsrf'
+[2025-11-26 19:55:56] [Administrador] 📂 Creó el archivo 'gsrf' en '/' (23 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 19:55:56] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 20:00:17] [Sistema] 📋 Cambió política de planificación a SSTF
+[2025-11-26 20:00:18] [Sistema] 📋 Cambió política de planificación a FIFO
+[2025-11-26 20:26:45] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 20:26:54] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 20:26:56] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 20:27:03] [Sistema] 🔄 Cambió el modo de usuario a Administrador
+[2025-11-26 20:27:13] [Administrador] 📋 Proceso P1 creado para crear archivo 'dfeva'
+[2025-11-26 20:27:16] [Administrador] 📂 Creó el archivo 'dfeva' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 20:27:16] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 20:27:29] [Administrador] 📖 Leyó el archivo 'dfeva' (12 HITs - lectura completa desde buffer)
+[2025-11-26 20:27:29] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 20:27:44] [Administrador] 📋 Proceso P3 creado para actualizar archivo 'dfeva'
+[2025-11-26 20:27:46] [Administrador] ✏️ Actualizó el archivo 'dfeva' (12 HITs - todos los bloques en buffer)
+[2025-11-26 20:27:46] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 20:27:54] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'dfeva'
+[2025-11-26 20:27:56] [Administrador] ✏️ Actualizó el archivo 'dfeva' (12 HITs - todos los bloques en buffer)
+[2025-11-26 20:27:56] [Sistema] ✅ Proceso P4 terminado
+[2025-11-26 20:28:00] [Administrador] 📖 Leyó el archivo 'dfeva' (12 HITs - lectura completa desde buffer)
+[2025-11-26 20:28:00] [Sistema] ✅ Proceso P5 terminado
+[2025-11-26 20:28:12] [Administrador] 📋 Proceso P6 creado para crear archivo 'gsfr'
+[2025-11-26 20:28:15] [Administrador] 📂 Creó el archivo 'gsfr' en '/' (34 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 20:28:15] [Sistema] ✅ Proceso P6 terminado
+[2025-11-26 20:28:26] [Administrador] 📖 Leyó el archivo 'gsfr' (34 MISSes - lectura completa desde disco)
+[2025-11-26 20:28:26] [Sistema] ✅ Proceso P7 terminado
+[2025-11-26 21:40:38] [Sistema] 💾 Cambió política de buffer a FIFO
+[2025-11-26 21:40:53] [Administrador] 📋 Proceso P1 creado para crear archivo 'a'
+[2025-11-26 21:40:55] [Administrador] 📂 Creó el archivo 'a' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 21:40:55] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 21:41:18] [Administrador] 📋 Proceso P2 creado para crear archivo 'b'
+[2025-11-26 21:41:20] [Administrador] 📂 Creó el archivo 'b' en '/' (23 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 21:41:20] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 21:41:25] [Administrador] 📖 Leyó el archivo 'a' (12 MISSes - lectura completa desde disco)
+[2025-11-26 21:41:25] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 21:41:35] [Administrador] 📋 Proceso P4 creado para actualizar archivo 'a'
+[2025-11-26 21:41:37] [Administrador] ✏️ Actualizó el archivo 'a' (12 HITs - todos los bloques en buffer)
+[2025-11-26 21:41:37] [Sistema] ✅ Proceso P4 terminado
+[2025-11-26 21:41:42] [Administrador] 📖 Leyó el archivo 'a' (12 HITs - lectura completa desde buffer)
+[2025-11-26 21:41:42] [Sistema] ✅ Proceso P5 terminado
+[2025-11-26 21:41:57] [Administrador] 📖 Leyó el archivo 'a' (12 MISSes - lectura completa desde disco)
+[2025-11-26 21:41:57] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 21:42:04] [Administrador] 📖 Leyó el archivo 'b' (23 MISSes - lectura completa desde disco)
+[2025-11-26 21:42:04] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 21:42:16] [Administrador] 📖 Leyó el archivo 'a' (12 MISSes - lectura completa desde disco)
+[2025-11-26 21:42:16] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 21:42:58] [Administrador] 📋 Proceso P1 creado para actualizar archivo 'a'
+[2025-11-26 21:43:00] [Administrador] ✏️ Actualizó el archivo 'a' (12 MISSes - ningún bloque en buffer)
+[2025-11-26 21:43:00] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 21:43:11] [Administrador] 📖 Leyó el archivo 'a' (12 MISSes - lectura completa desde disco)
+[2025-11-26 21:43:11] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 21:49:56] [Administrador] 📋 Proceso P1 creado para crear archivo 'a'
+[2025-11-26 21:50:00] [Administrador] 📂 Creó el archivo 'a' en '/' (12 MISSes - 12 bloques cargados al buffer)
+[2025-11-26 21:50:00] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 21:50:58] [Administrador] 📋 Proceso P2 creado para actualizar archivo 'a'
+[2025-11-26 21:51:00] [Administrador] ✏️ Actualizó el archivo 'a' (12 HITs - todos los bloques en buffer)
+[2025-11-26 21:51:00] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 21:51:03] [Administrador] 📖 Leyó el archivo 'a' (12 HITs - lectura completa desde buffer)
+[2025-11-26 21:51:03] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 21:51:13] [Administrador] 📖 Leyó el archivo 'a' (12 MISSes - lectura completa desde disco)
+[2025-11-26 21:51:13] [Sistema] ✅ Proceso P1 terminado
+[2025-11-26 21:51:21] [Administrador] 📋 Proceso P2 creado para crear archivo 'b'
+[2025-11-26 21:51:22] [Administrador] 📂 Creó el archivo 'b' en '/' (23 MISSes - 20 bloques cargados al buffer)
+[2025-11-26 21:51:22] [Sistema] ✅ Proceso P2 terminado
+[2025-11-26 21:51:46] [Sistema] 🔄 Cambió el modo de usuario a Usuario
+[2025-11-26 21:51:48] [Usuario] 📖 Leyó el archivo 'a' (12 MISSes - lectura completa desde disco)
+[2025-11-26 21:51:48] [Sistema] ✅ Proceso P3 terminado
+[2025-11-26 21:52:00] [Sistema] 🔄 Cambió el modo de usuario a Administrador
